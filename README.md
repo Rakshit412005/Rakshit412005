@@ -5,7 +5,7 @@
 <h1>Rakshit Kumar</h1>
 
 <p>
-  <b>Full-Stack Developer</b> • <b>AI/ML Enthusiast</b> • <b>Builder of Premium Digital Experiences</b>
+  <b>Full-Stack Developer</b> • <b>AI/ML Enthusiast</b> • <b>Software Development Enginneer</b>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+MERN+%2B+Next.js;AI%2FML+%26+Edge-AI+Enthusiast;B.Tech+CS+%40+SRM+IST;Building+Products+That+Feel+Premium" alt="Typing SVG" />
@@ -15,6 +15,8 @@
   <a href="mailto:rakshitkumar0401@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Rakshit412005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/u/lc_rakshit07/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://drive.google.com/file/d/1hCxshsjHbpm_6K2hHl2lF6tH6AqkOI_T/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  
 </p>
 
 </div>
