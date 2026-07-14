@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="coding gif" />
+<img src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://thumbs.dreamstime.com/b/enjoying-peaceful-rainy-nights-window-working-home-glowing-city-lights-view-feel-vibe-night-warm-drink-409440926.jpg?w=992)" width="100%" alt="coding gif" />
 
 <h1>Rakshit Kumar</h1>
 
