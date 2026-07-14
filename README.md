@@ -8,7 +8,7 @@
   <b>Full-Stack Developer</b> • <b>AI/ML Enthusiast</b> • <b>Software Development Enginneer</b>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+MERN+%2B+Next.js;AI%2FML+%26+Edge-AI+Enthusiast;B.Tech+CS+%40+SRM+IST;Building+Products+That+Feel+Premium" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Software+Development+Engineer;B.Tech+CSE+%40+SRM+IST+%7C+9.20+CGPA" alt="Typing SVG" />
 
 <p>
   <a href="https://linkedin.com/in/rakshit-kumar07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
