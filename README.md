@@ -10,14 +10,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Software+Development+Engineer;B.Tech+CSE+%40+SRM+IST+%7C+9.20+CGPA" alt="Typing SVG" />
 
-<p>
-  <a href="https://linkedin.com/in/rakshit-kumar07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rakshitkumar0401@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Rakshit412005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/lc_rakshit07/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://drive.google.com/file/d/1hCxshsjHbpm_6K2hHl2lF6tH6AqkOI_T/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
-  
-</p>
+
 
 </div>
 
@@ -33,7 +26,13 @@ I enjoy shipping things that feel polished, useful, and modern — from scalable
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/ig_rakshit07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/rakshit-kumar07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:rakshitkumar0401@gmail.com)
+<p>
+  <a href="https://linkedin.com/in/rakshit-kumar07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rakshitkumar0401@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/lc_rakshit07/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://instagram.com/ig_rakshit07"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1hCxshsjHbpm_6K2hHl2lF6tH6AqkOI_T/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+</p>
 
 # 💻 Tech Stack:
 
